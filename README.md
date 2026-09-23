@@ -1,16 +1,29 @@
-## Hi there 👋
+# 📚 Projetos da Faculdade
 
-<!--
-**gioribeirro/gioribeirro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Repositório criado para armazenar atividades, trabalhos e projetos desenvolvidos durante o curso de **Ciência da Computação**.
 
-Here are some ideas to get you started:
+## 🎓 Sobre o projeto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este repositório reúne meus estudos e exercícios acadêmicos, servindo como forma de acompanhar minha evolução em programação e desenvolvimento de software.
+
+## 📁 Organização
+
+- `atividades/` — Exercícios e atividades realizadas durante as disciplinas
+- `projetos/` — Projetos acadêmicos
+- `documentacao/` — Relatórios e materiais complementares
+
+## 🛠️ Tecnologias utilizadas
+
+As tecnologias podem variar de acordo com cada atividade ou projeto.
+
+- Git e GitHub
+- Linguagens de programação estudadas
+- Banco de dados
+- Ferramentas de desenvolvimento
+
+## 🚀 Como utilizar
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
