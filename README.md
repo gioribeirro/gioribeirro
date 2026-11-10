@@ -1,8 +1,3 @@
- <!-- BANNER: coloque sua imagem em assets/banner.png -->
-<p align="center">
-  <img src="banner.png" alt="Banner de Giovanna Ribeiro" width="20%">
-</p>
-
 <h1 align="center">. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁. Olá, eu sou a Gioh. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.</h1>
 
 <p align="center">
@@ -114,9 +109,9 @@ As tecnologias variam conforme os objetivos e requisitos de cada atividade ou pr
 ---
 
 <p align="center">
-  <img src="./assets/cat.png" alt="Gatinho decorativo" width="145">
+  <img src="cat.png" alt="Gatinho decorativo" width="145">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/dog.png" alt="Cachorrinho decorativo" width="165">
+  <img src="dog.png" alt="Cachorrinho decorativo" width="165">
 </p>
 
 <p align="center">
