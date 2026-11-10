@@ -73,35 +73,6 @@ As tecnologias variam conforme os objetivos e requisitos de cada atividade ou pr
 - Ferramentas de desenvolvimento;
 - Git e GitHub para versionamento e organização dos projetos.
 
-**Acesse os repositórios acadêmicos:** [Projetos e atividades no GitHub](https://github.com/gioribeirro?tab=repositories).
-
-## Estatísticas do GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=gioribeirro&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
-    height="165"
-    alt="Estatísticas do GitHub"
-  >
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioribeirro&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
-    height="165"
-    alt="Linguagens mais utilizadas"
-  >
-</p>
-
-## Histórico de contribuições
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gioribeirro/gioribeirro/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gioribeirro/gioribeirro/output/pacman-contribution-graph.svg">
-    <img alt="Gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/gioribeirro/gioribeirro/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
----
-
 <p align="center">
   <i>Aprendizado contínuo, desenvolvimento na prática e evolução a cada projeto.</i>
 </p>
